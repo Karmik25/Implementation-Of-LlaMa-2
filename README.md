@@ -2,7 +2,6 @@
 
 ![LLaMA-2 Architecture Diagram](https://drive.google.com/uc?export=view&id=1QSSuG-hmKc_f9qRi1gfaTKRcMQm0DlML)
 
-## Overview
 
 ## Overview
 This repository contains a **from-scratch implementation of the LLaMA-2 architecture** using **Python and PyTorch**.  
